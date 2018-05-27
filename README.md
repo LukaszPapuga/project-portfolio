@@ -1,5 +1,5 @@
-## project-portfolio
-# Project for Udacity FEND course. 
+
+# Project-portfolio for Udacity FEND course. 
 ##### The page at includes all of the following:
 
 * at least 4 images
